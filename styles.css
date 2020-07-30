@@ -1,0 +1,82 @@
+body {
+  background-color: darkgreen;
+  text-align: center;
+  font-family: 'Diplomata SC', cursive;
+}
+#title-level {
+  font-size: 3rem;
+  margin: 1% 5% 5% 2%;
+  color: white;
+}
+h2 {
+  font-size: 2.5rem;
+  width: 10%;
+  position: absolute;
+  top: 30%;
+  display: inline-block;
+}
+.smileys-left {
+  text-align: left;
+  right: 70%;
+}
+
+.smileys-right {
+  text-align: right;
+  left: 70%;
+}
+h4 {
+  font-size: 1.5rem;
+  display: inline-block;
+  position: absolute;
+  top: 60%;
+  left: 70%;
+  color: darkblue;
+}
+h4:hover {
+  border: black solid 2px;
+}
+.tutorial-text {
+  font-size: 2rem;
+  font-family: 'Recursive', sans-serif;
+  color: white;
+}
+
+.container {
+  width: 50%;
+  display: block;
+  margin: auto;
+}
+.invisible {
+  display: none;
+}
+.btn {
+  width: 200px;
+  height: 200px;
+  border-radius: 20%;
+  border: solid 10px black;
+  margin: 15px;
+  display: inline-block;
+}
+
+.blue-btn {
+  background-color: blue;
+}
+.green-btn {
+  background-color: green;
+}
+.red-btn {
+  background-color: red;
+}
+.yellow-btn{
+  background-color: yellow;
+}
+
+.add-inf {
+  position: absolute;
+  top: 88%;
+  right: 2%;
+  text-align: left;
+  color: white;
+  font-family: 'Recursive', sans-serif;
+  color: black;
+}
